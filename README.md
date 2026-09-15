@@ -101,7 +101,7 @@ pricing recommendations were built.
 
 The Power BI report, filtered to Q3 2025:
 
-![Pricing dashboard: margin and revenue by product, region and category](images/Page%201%20Financial%20Analysis%20dashboard.png)
+![Revenue & Margin dashboard: margin and revenue by product, region and category](images/Page%201%20Financial%20Analysis%20dashboard.png)
 
 ![Product analysis: revenue by product, and pricing and margin analysis with recommended prices](images/Page%202%20Financial%20Analysis%20dashboard.png)
 

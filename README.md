@@ -22,6 +22,7 @@ that feeds a Power BI dashboard.
 ## Repository layout
 
 ```
+├─ Pricing-Analysis-2023-2025.pptx  Presentation: brief, methodology, findings, recommendations
 ├─ sql/
 │  ├─ 00_schema.sql        Table definitions and data types for the five source tables
 │  └─ 01_clean_orders.sql  Data-quality audit (Steps 1-9) + the cleaning query (Step 10).
@@ -98,6 +99,8 @@ holds for this dataset
 
 The cleaned table is loaded into Power BI, where the year-over-year margin analysis and the
 pricing recommendations were built.
+
+📑 **Presentation:** [Pricing-Analysis-2023-2025.pptx](Pricing-Analysis-2023-2025.pptx)
 
 The Power BI report, filtered to Q3 2025:
 

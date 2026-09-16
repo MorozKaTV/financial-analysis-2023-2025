@@ -1,6 +1,6 @@
 # The Daily Grind — Financial Analysis 2023-2025
 
-SQL data-cleaning layer for a margin analysis of a coffee retailer. Three yearly
+SQL data-cleaning layer for a margin and revenue analysis of a coffee retailer. Three yearly
 order extracts are combined, audited, cleaned and joined into a single analysis-ready table
 that feeds a Power BI dashboard.
 
@@ -104,7 +104,7 @@ pricing recommendations were built.
 
 The Power BI report, filtered to Q3 2025:
 
-![Revenue & Margin dashboard: margin and revenue by product, region and category](images/Page%201%20Financial%20Analysis%20dashboard.png)
+![The Daily Grind Sales Dashboard: margin and revenue by product, region and category](images/Page%201%20Financial%20Analysis%20dashboard.png)
 
 ![Product analysis: revenue by product, and pricing and margin analysis with recommended prices](images/Page%202%20Financial%20Analysis%20dashboard.png)
 
